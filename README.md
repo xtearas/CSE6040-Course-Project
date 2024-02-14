@@ -21,6 +21,7 @@ Building footprint geometry data 'building_geometries.gpkg' was obtained from ht
 Since all these datasets are quite large, by using geopandas, osgeo and SQL queries only data for certain buildings was extracted for the purpose of this exercise.
 
 ### Disclaimer:
+
 This project contains information taken from https://api3.geo.admin.ch/ and https://www.minergie.ch/de/gebaeude/
 
-I do not own these data. It is open access and available to under these terms: https://www.geo.admin.ch/en/general-terms-of-use-fsdi
+I do not own these data. It is open access and available under these terms: https://www.geo.admin.ch/en/general-terms-of-use-fsdi
