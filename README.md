@@ -24,4 +24,4 @@ Since all these datasets are quite large, by using geopandas, osgeo and SQL quer
 
 This project contains information taken from https://api3.geo.admin.ch/ and https://www.minergie.ch/de/gebaeude/
 
-I do not own these data. It is open access and available under these terms: https://www.geo.admin.ch/en/general-terms-of-use-fsdi
+I do not own these data. The data is open access and available under these terms: https://www.geo.admin.ch/en/general-terms-of-use-fsdi
